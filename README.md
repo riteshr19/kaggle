@@ -1,4 +1,4 @@
-# Amazon Movie Rating Prediction
+
 
 ## Overview
 This project investigates the relationship between star ratings and user reviews on Amazon Movie Reviews. Utilizing various features, such as a unique identifier for the product/user, the number of users who found the review helpful, the timestamp of the review, a brief summary, and the full text of the review, the goal is to predict the star rating score. Successful implementation could aid in estimating the popularity of unlisted movies and improving recommendation systems.
